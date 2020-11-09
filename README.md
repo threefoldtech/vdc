@@ -1,2 +1,1 @@
-# vdc
-Private virtual datacenter
+# Private virtual datacenter
