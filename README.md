@@ -1,6 +1,6 @@
 # ThreeFold Edge virtual Data center (TF eVDC)
 
-[TF eVDC Wiki](vdc.threefold.io)
+[TF eVDC Wiki](https://vdc.threefold.io)
 
 An environment to deploy IT workloads in an easy way, keeping the most popular tooling available in the market to run workloads.
 It offers the tooling for :
