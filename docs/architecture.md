@@ -1,3 +1,5 @@
+# vdc architecture
+
 - A master 3 bot is able to create new Vdc's
 - A 3bot per vdc is deployed
   - VDC website is a 3bot with vdc package installed
