@@ -26,7 +26,7 @@
 
 ## references
 
-[Container Storage Interface (CSI)](https://github.com/container-storage-interface/spec/blob/master/spec.md)
-[CSI Volume Plugins in Kubernetes Design Doc](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/storage/container-storage-interface.md#csi-volume-plugins-in-kubernetes-design-doc)
-[Developing CSI Driver for Kubernetes](https://kubernetes-csi.github.io/docs/developing.html#developing-csi-driver-for-kubernetes)
+- [Container Storage Interface (CSI)](https://github.com/container-storage-interface/spec/blob/master/spec.md)
+- [CSI Volume Plugins in Kubernetes Design Doc](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/storage/container-storage-interface.md#csi-volume-plugins-in-kubernetes-design-doc)
+- [Developing CSI Driver for Kubernetes](https://kubernetes-csi.github.io/docs/developing.html#developing-csi-driver-for-kubernetes)
 
